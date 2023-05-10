@@ -3,7 +3,7 @@
 #
 
 headermenu:
-    cover-letter: https://drive.google.com/file/d/1W4KvkGO3EF9MLZ2W9LyqaEirBhUygIV8/view?usp=sharing
+    cover-letter: https://drive.google.com/file/d/1gOvLbjHHC4Yb-O6iw4MdX6hLoxBmX7aT/view?usp=sharing
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -11,7 +11,7 @@ sidebar:
 
     # Profile information
     name: Herry Zhouldy
-    tagline: System Analyst
+    tagline: Project Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,14 +19,14 @@ sidebar:
     phone: +6422 496 9030
     address: 817/72 Nelson Street, Auckland 1010
     youtube: Video CV
-    youtube-link: https://youtu.be/0dMPPzK4uW4
+    youtube-link: https://youtu.be/uUu8z-3WmpQ
     linkedin: zould1618
     linkedin-link: https://id.linkedin.com/in/zould1618
     github: hz81
     github-link: https://github.com/hz81
     website: Herry's CV
-    website-link: https://hz81.github.io/cv-sa1
-    download-pdf: https://drive.google.com/file/d/1SDosAJwEz52YUvqZWN35Vrk9oDxMfccT/view?usp=sharing
+    website-link: https://hz81.github.io/cv-pm1
+    download-pdf: https://drive.google.com/file/d/1ABuahMd0GBBzzalhWCDp4aWVTSceaAI1/view?usp=sharing
 
     characters:
       title: Characters
@@ -95,7 +95,7 @@ qualifications:
 highlights:
     title: Highlights
     summary: |
-      - Experienced System Analyst (+10 years of experience)
+      - Experienced Project Manager (+10 years of experience)
       - Competent in most phases of the software development life cycle (SDLC)
       - Proficient at interpreting business requirements into applicable solutions
       - Proven success in designing web and mobile application architecture
@@ -196,7 +196,7 @@ achievements:
 experiences:
     title: Experiences
     info:
-      - role: Senior System Analyst
+      - role: Project Manager
         time: Jun 2022 - Present
         company: PT. Xcidic Technology Indonesia - IT Solution Provider
         site: https://xcidic.com
@@ -216,7 +216,7 @@ experiences:
             - Managed a team of coders to perform their best in delivering good-quality products
             - Implemented ITSM to the ongoing product maintenance
             - Implemented project life-cycle procedure as a company guideline to manage projects
-      - role: Senior System Analyst
+      - role: Project Manager
         time: Apr 2019 - May 2022
         company: PT. KDB Tifa Finance,tbk - Finance & Leasing Company
         site: https://www.kdbtifa.co.id
@@ -236,7 +236,7 @@ experiences:
             - Established and configured Git repository environment under the Ubuntu Linux platform
             - Established a standard decision support system in the form of dashboard performance views using Data Studio tools
             - Revamped a company profile website, complete with its Content Management System (CMS)
-      - role: System Analyst
+      - role: Project Manager
         time: Jan 2012 - Feb 2019
         company: Manulife Financial - Life Insurance Company
         site: https://www.manulife.co.id
